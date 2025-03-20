@@ -7,3 +7,5 @@ The Fibonacci sequence is a series of numbers where each number is the sum of th
 It is widely used in mathematics, computer science, and nature, appearing in everything from the arrangement of leaves on a stem to the spirals of galaxies.
 
 This project includes a Python script that allows users to generate the Fibonacci sequence up to a specified number of terms. The script demonstrates both recursion and iteration, providing an educational approach to understanding this famous sequence.
+
+Try it out by running the script and exploring how the Fibonacci numbers grow!
